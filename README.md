@@ -2,8 +2,7 @@
 
 This guide explains how to work with [Flux](https://blackforestlabs.ai) models, tools, and LoRAs in the [Draw Things](https://drawthings.ai) app on macOS. 
 It provides instructions, examples, and configurations with the aim of offering sane defaults to 
-help new users get started quickly. The guide covers various model types like `Flux.1 [schnell]`, 
-`Flux.1 [dev]`, inpainting/outpainting options, and specialized LoRAs for depth and edge-guided generation.
+help new users get started quickly.
 
 **Note:** This guide is open to contributions. If you want to improve or extend it, feel free to submit a pull request on GitHub. PRs are welcome!
 
