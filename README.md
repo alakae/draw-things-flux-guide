@@ -339,6 +339,7 @@ Restore default configuration and then apply the following settings
 - Model: `Flux.1 [dev]`
 - Steps: `28`
 - LoRA: `Flux.1 Canny [dev]`, Weight: 80%
+- Text Guidance: 3.5
 
 Provide a text prompt and a control image on the **'Image' layer**.
 **The control image must cover the whole layer.**
@@ -420,6 +421,7 @@ Restore default configuration and then apply the following settings
 - Model: `Flux.1 [dev]`
 - Steps: `28`
 - LoRA: `Flux.1 Depth [dev]`, Weight: 100%
+- Text Guidance: 3.5
 
 Provide a text prompt and a control image on the **'Depth' layer**.
 
