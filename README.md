@@ -1,12 +1,12 @@
 # The Missing Manual: Using Flux Models and Tools in Draw Things
 
-This guide explains how to work with [Flux](https://blackforestlabs.ai) models, tools, and LoRAs in the [Draw Things](https://drawthings.ai) app on macOS. 
-It provides instructions, examples, and configurations with the aim of offering sane defaults to 
+This guide explains how to work with [Flux](https://blackforestlabs.ai) models, tools, and LoRAs in the [Draw Things](https://drawthings.ai) app on macOS.
+It provides instructions, examples, and configurations with the aim of offering sane defaults to
 help new users get started quickly.
 
 **Note:** This guide is open to contributions. If you want to improve or extend it, feel free to submit a pull request on GitHub. PRs are welcome!
 
-All models used in this guide can be directly downloaded within Draw Things.
+All models used in this guide can be directly downloaded within Draw Things. Please consult the respective model licenses before using them.
 
 ### User Interface
 
